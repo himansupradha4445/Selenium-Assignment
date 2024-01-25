@@ -11,6 +11,9 @@ Selenium
 TestNG
 log4j
 Extent Reports
+
+Run the testng.xml file to compile the code.
+
 ## Test Case :
 
 ### 1. Homepage:
