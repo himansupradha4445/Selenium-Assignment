@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <!-- Reporters -->
+    <reporters>
+        <!-- HTML Reporter -->
+        <html-reporter>
+            <file-system-output>./test-output/Extent.html</file-system-output>
+            <document-title>Entrata Test Project</document-title>
+            <report-name>Functional Test Report</report-name>
+            <chart-location>TOP</chart-location>
+            <theme>DARK</theme>
+        </html-reporter>
+    </reporters>
+
+    <!-- System Information -->
+    <system-information>
+        <system-property>
+            <name>Host name</name>
+            <value>localhost</value>
+        </system-property>
+        <system-property>
+            <name>Environemnt</name>
+            <value>QA</value>
+        </system-property>
+        <system-property>
+            <name>user</name>
+            <value>Himansu</value>
+        </system-property>
+    </system-information>
+
+    <!-- Configuration for HTML Reporter -->
+    <html-reporter>
+        <document-title>InetBanking Test Project</document-title>
+        <report-name>Functional Test Report</report-name>
+        <chart-location>TOP</chart-location>
+        <theme>DARK</theme>
+    </html-reporter>
+</extentreports>
