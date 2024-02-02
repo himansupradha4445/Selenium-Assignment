@@ -40,7 +40,18 @@ Test the login functionality with invalid credentials and ensure appropriate err
 
 Verify that users can register successfully.
 Test the registration form with invalid data and check for appropriate error messages.
-Search Functionality:
+
+# Implemention:
+## Create Maven Project
+## Update pom.xml
+## Create Page Objects
+## Create Basic Testcase
+## Add logs to TestCase
+## Read common values from properties file
+## Run test case on desired browser
+## Add extent report
+## Create Data-Driven Testcase
+## Add new test case
 
 
 
