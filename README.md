@@ -53,6 +53,16 @@ Test the registration form with invalid data and check for appropriate error mes
 ## Create Data-Driven Testcase
 ## Add new test case
 
+# Runing the code
+## Testng.xml
+## pom.xml
+Adding dependency 
+I COMPILER
+II Surefire
+Run Maven Test
+
+
+
 
 
 
